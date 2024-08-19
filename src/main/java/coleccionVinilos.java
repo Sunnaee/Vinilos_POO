@@ -18,6 +18,7 @@ public class coleccionVinilos {
         String artista = "Jihyo";
         System.out.println("Buscando artista: "+artista);
         mostrarBusqArtista(vinilos,artista);
+
         buscarArtista(vinilos,artista);
 
         mostrarColeccion(vinilos);
